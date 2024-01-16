@@ -1,12 +1,12 @@
-import Banner from 'components/Banner'
-import './Inicio.css'
+import styles from './Inicio.module.css'
+import posts from 'json/posts.json'
+import Postagem from 'components/Postagem'
 
 const Inicio = () => {
     return(
-        <main>
-        <Banner/>
-            <h1>Pagina Inicio</h1>
-        </main>
+        <ul className={styles.posts}>
+            {posts.map(post => <li key={post.id}><Postagem postagem={post}/></li>)}
+        </ul>
     )
 }
 
