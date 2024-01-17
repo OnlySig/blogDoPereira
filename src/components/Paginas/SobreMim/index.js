@@ -13,7 +13,7 @@ const SobreMim = () => {
             <p className={styles.paragrafo}>No ensino técnico, escolhi cursar Análise e desenvolvimento de sistemas na Universidade Paulista (unip). Lá eu me aprofundei não apenas em programação, mas tambem na parte de segurança, qualidade, regras, leis e etc.</p>
             <p className={styles.paragrafo}>Ao mesmo tempo que estava na faculdade, continuei meus estudos em programação, sempre me aperfeiçoando e evoluindo.</p>
             <p className={styles.paragrafo}>Para mim não é mais uma escolha de sim ou não, se der certo continuar ou se não der tentar outra coisa, programar é o que eu sei fazer, é o meu lazer, é o meu ócio, é o meu sacerdôcio, é a minha terapia. É por isso que não é mais uma escolha, e sim uma caminhada que NÀO IMPORTE o quão distante eu esteja de um SIM, porem serão os NÃO que me darão a resiliência e disciplina para continuar e fazer meu sonho realidade.</p>
-            <p className={styles.paragrafo}>Agradeço a Deus por tudo que ele ja me deu, pela sorte que eu tive até aqui. Deus abençoe a qualquer pessoa que esteja lendo essa histôria/desabafo de um humilde estudande.</p>
+            <p className={styles.paragrafo}>Agradeço a Deus por tudo que ele ja me deu, pela sorte que eu tive até aqui. Deus abençoe a qualquer pessoa que esteja lendo essa histôria/desabafo de um humilde estudante.</p>
         </PostModelo>
     )
 }
