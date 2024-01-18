@@ -53,6 +53,11 @@
     overflow-x: auto;
 }
 
+.elementosFiltrados {
+    display: flex;
+    gap: 8px;
+}
+
 @media (max-width: 1100px) {
     .post-markdown-container p {
         margin-bottom: 2rem;
